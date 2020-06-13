@@ -6,7 +6,7 @@ Discussion of how well the models perform on out-of-sample-data.
 
 Train test Split.
 
-### Five models were used in total with 5 classification algorithms:
+### Five models were used in total with 7 classification algorithms:
 
 - Random Forest Classifier
 - Gradient Boosting Classifier
@@ -16,7 +16,7 @@ Train test Split.
 - Logistic Regression Classifier
 - KNeighbors Classifier with K=5
 
-### These five models were trained with the train set portion of the dataset.
+### These 7 models were trained with the train set portion of the dataset.
 
 Running main.py would print the accuracy score function. This is also known as accuracy training.
 
